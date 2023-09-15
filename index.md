@@ -2,7 +2,7 @@
 layout: about
 image: /assets/img/me/me.jpg
 description: >
-  사이버보안을 공부하고있는 대학생입니다.
+  사이버보안을 공부하고있는 대학생입니다.(index.md)
 hide_description: false
 ---
 
@@ -14,13 +14,13 @@ hide_description: false
 
 ## 소개
 ---
-Github 블로그에 관심사를 공유하고,  
+Github 블로그에 관심사를 공유하고,  (index.md)
 보안 관련 공부를 하고있는 대학생입니다.
 
 
-제 **관심분야**는 다음과 같습니다.
+제 **관심분야**는 다음과 같습니다.(index.md)
 
->   <a>__security vulnerability diagnosis, mock hacking, security consulting__</a>
+>   <a>__security vulnerability diagnosis, mock hacking, security consulting__(index.md)</a>
 
 
 <div class="me">
