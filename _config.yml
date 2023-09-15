@@ -56,20 +56,20 @@ menu:
     url:               /test1/
   - title:             Example2
     url:               /example2/
-  - title:            WebGoat
-    url:              /webgoat/
-    submenu:
-      - title:      Mock-Hacking
-        url:        /mock-hacking/
-      - title:      Mock-Hacking2
-        url:        /mock-hacking2/
-  - title:          Youtube-p
-    url:           /youtube-p/
-    submenu:
-      - title:      Aespa
-        url:        /aespa/
-      - title:      Stacy
-        url:        /stacy/
+  # - title:            WebGoat
+  #   url:              /webgoat/
+  #   submenu:
+  #     - title:      Mock-Hacking
+  #       url:        /mock-hacking/
+  #     - title:      Mock-Hacking2
+  #       url:        /mock-hacking2/
+  # - title:          Youtube-p
+  #   url:           /youtube-p/
+  #   submenu:
+  #     - title:      Aespa
+  #       url:        /aespa/
+  #     - title:      Stacy
+  #       url:        /stacy/
 
 
 # Add links to the footer.
