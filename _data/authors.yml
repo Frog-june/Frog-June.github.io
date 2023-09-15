@@ -2,7 +2,7 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              SangHoon Park
+  name:              SangHoon Park(_data/authors.yml)
   email:             1235parksh@naver.com
 
   # Used at the bottom of each page and at the top of the `about` layout
