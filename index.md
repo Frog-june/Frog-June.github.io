@@ -1,8 +1,8 @@
 ---
 layout: about
-image: /assets/img/me/me.jpg
+image: /assets/img/me/hacker.png
 description: >
-  사이버보안을 공부하고있는 대학생입니다.(index.md)
+  
 hide_description: false
 ---
 
@@ -14,26 +14,23 @@ hide_description: false
 
 ## 소개
 ---
-Github 블로그에 관심사를 공유하고,  (index.md)
-보안 관련 공부를 하고있는 대학생입니다.
+Github Blog를 활용하여 프로젝트 및 내용을 공유하고자합니다.
+
+틈틈히 **영어공부**도 하려고합니다
+
+>   <a>I would like to share projects and contents using Github Blog.</a>
 
 
-제 **관심분야**는 다음과 같습니다.(index.md)
-
->   <a>__security vulnerability diagnosis, mock hacking, security consulting__(index.md)</a>
-
-
-<div class="me">
-    <div><img src= "/assets/me/cheetah1.jpg"></div>
-    <div><img src= "/assets/me/cheetah2.jpg"></div>
-    <div><img src= "/assets/me/cheetah3.jpg"></div>
-    <div><img src= "/assets/me/cheetah4.jpg"></div>
+<!-- <div class="me">
+    <div><img src= "/assets/me/.jpg"></div>
+    <div><img src= "/assets/me/.jpg"></div>
+    <div><img src= "/assets/me/.jpg"></div>
+    <div><img src= "/assets/me/.jpg"></div>
 </div>
 
   <script>
     $(document).ready(function(){
       $('.me').slick({autoplay : true});
     });
-  </script>
+  </script> -->
 
----
