@@ -1,9 +1,6 @@
 ---
-layout: about
+layout: 소개
 image: /assets/img/me/me.jpg
-description: >
-  사이버보안에 대해 공부하고있는 대학생입니다.(about.md)
-hide_description: true
 
 ---
 
