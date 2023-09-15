@@ -28,7 +28,7 @@ description:           >
   자료 저장 및 공유를 위한 GitBlog
 
 # A shorter description for the sidebar.
-tagline:               _config.yml/tagline
+tagline:               JJun projet
 
 # A list of keywords for your blog
 keywords:              [programming, security, git, gitblog]
